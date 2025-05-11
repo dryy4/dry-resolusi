@@ -1,3 +1,3 @@
 Dry rencana bulan mei :
-membuat program diskusi
+membuat program diskusi dengan front-end jsx dan back-end php dengan faramework laravel
 mempelajari dart dan framework fluter
