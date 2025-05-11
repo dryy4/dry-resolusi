@@ -2,3 +2,5 @@ Dry rencana bulan mei :
 membuat program diskusi dengan front-end jsx dan back-end php dengan faramework laravel
 mempelajari dart dan framework fluter
 menyelesaikan 1 buku
+liburan ke singapur
+belajar phyton
